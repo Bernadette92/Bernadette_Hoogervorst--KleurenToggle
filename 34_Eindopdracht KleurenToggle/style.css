@@ -1,0 +1,72 @@
+.background {
+  background-color: lightgray;
+}
+
+.home-backround {
+  background-color: lightgray;
+}
+.red-background {
+  background-color: red;
+}
+.purple-background {
+  background-color: purple;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.menu-icon {
+  width: 50px;
+  cursor: pointer;
+}
+
+.navlist {
+  width: 200px;
+  list-style: none;
+  padding-left: 0px;
+  position: fixed;
+  left: -200px;
+  transition: left 0.5s ease-in-out;
+}
+
+.change {
+  left: 0px;
+}
+.navlist li {
+  padding: 20px;
+}
+
+.home {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+  cursor: pointer;
+}
+.purple {
+  background-color: purple;
+  cursor: pointer;
+}
+.blue {
+  background-color: blue;
+  cursor: pointer;
+}
+.green {
+  background-color: green;
+  cursor: pointer;
+}
+.yellow {
+  background-color: yellow;
+  cursor: pointer;
+}
